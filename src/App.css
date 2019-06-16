@@ -1,0 +1,54 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  padding:10%;
+  padding-top:10vh;
+}
+
+.span{
+    cursor: pointer;
+}
+
+.centerStage{
+}
+
+.animate{
+  animation: App-logo-spin;
+  animation-iteration-count: 4;
+  height: 40vmin;
+  pointer-events: none;
+  -webkit-animation-name: party; /* Safari 4.0 - 8.0 */
+  -webkit-animation-duration: 500ms; /* Safari 4.0 - 8.0 */
+  animation-name: party;
+  animation-duration: 500ms;
+  animation-timing-function: ease;
+}
+
+.App-header {
+  padding-top: 25vh;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: top;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes party {
+  0% {
+    transform: rotate(0deg);
+  }
+  
+  50% {
+    transform: rotate(60deg);
+    }
+    100%{
+        transform: rotate(0deg);
+    }
+    
+}
