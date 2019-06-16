@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.dbff52fc.chunk.css",
-    "main.js": "/static/js/main.dfb67129.chunk.js",
-    "main.js.map": "/static/js/main.dfb67129.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.d6a534e5.chunk.js": "/static/js/2.d6a534e5.chunk.js",
-    "static/js/2.d6a534e5.chunk.js.map": "/static/js/2.d6a534e5.chunk.js.map",
+    "main.css": "/fathersDay19/static/css/main.dbff52fc.chunk.css",
+    "main.js": "/fathersDay19/static/js/main.dfb67129.chunk.js",
+    "main.js.map": "/fathersDay19/static/js/main.dfb67129.chunk.js.map",
+    "runtime~main.js": "/fathersDay19/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/fathersDay19/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.d6a534e5.chunk.js": "/fathersDay19/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "/fathersDay19/static/js/2.d6a534e5.chunk.js.map",
     "index.html": "/index.html",
     "precache-manifest.28454740c12f032b38c239bc0364bcea.js": "/precache-manifest.28454740c12f032b38c239bc0364bcea.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.dbff52fc.chunk.css.map": "/static/css/main.dbff52fc.chunk.css.map",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "static/css/main.dbff52fc.chunk.css.map": "/fathersDay19/fathersDay19/static/css/main.dbff52fc.chunk.css.map",
+    "static/media/logo.svg": "/fathersDay19/static/media/logo.5d5d9eef.svg"
   }
 }
